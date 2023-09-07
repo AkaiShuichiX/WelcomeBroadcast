@@ -1,7 +1,7 @@
 ![Total Downloads](https://img.shields.io/github/downloads/Aquarty/WelcomeBroadcast/total)
 
 # WelcomeBroadcast - SCP:SL
-Simple Plugin that send Broadcast to player when they enter the server.
+Simple Plugin that send Broadcast to player when they join the server.
 
 This plugin is only compatible with [Nebuli Framework](https://github.com/Nebuli-Team/Nebuli)
 
