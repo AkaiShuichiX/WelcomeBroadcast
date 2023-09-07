@@ -17,4 +17,4 @@ broadcast_message: >-
   Join our discord if you enjoy the server!</i></color>
 broadcast_duration: 6
 ```
-https://cdn.discordapp.com/attachments/1140733040633598005/1149230112148033626/image.png
+ ![](https://cdn.discordapp.com/attachments/1140733040633598005/1149230112148033626/image.png)
