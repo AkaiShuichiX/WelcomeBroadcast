@@ -1,4 +1,4 @@
-![Total Downloads](https://img.shields.io/github/downloads/Aquarty/WelcomeBroadcast/total)
+![Total Downloads](https://img.shields.io/github/downloads/THQuery/WelcomeBroadcast/total)
 
 # WelcomeBroadcast - SCP:SL
 Simple Plugin that send Broadcast to player when they join the server.
